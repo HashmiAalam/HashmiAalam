@@ -1,5 +1,5 @@
-// method return type is interge/number:- if we use this keyword than it will search for instance directly
 public class Test {
+    //This is my first commit in IntelliJ
     int a=100;
     static int b=230;
     Test(){
